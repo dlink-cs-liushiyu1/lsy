@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.18.192.100/DView8.ipa</string>
+					<string>http://172.18.192.100:8080/DView8.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://172.18.192.100/0200211112324.png</string>
+					<string>http://172.18.192.100:8080/0200211112324.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://172.18.192.100/0200211112324.png</string>
+					<string>http://172.18.192.100:8080/0200211112324.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
